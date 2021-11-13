@@ -1,0 +1,1 @@
+{"name":"Local: min_max_element_arr","url":"c:\\Users\\manth\\Desktop\\DSA\\Data Struct\\Array\\min_max_element_arr.cpp","tests":[{"id":1634439798234,"input":"5\n1 2 3 4 5","output":"1\n5\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manth\\Desktop\\DSA\\Data Struct\\Array\\min_max_element_arr.cpp","group":"local","local":true}

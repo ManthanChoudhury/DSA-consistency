@@ -1,0 +1,1 @@
+{"name":"Local: pallindrom_int","url":"c:\\Users\\manth\\Desktop\\DSA\\basic\\pallindrom_int.cpp","tests":[{"id":1634293511169,"input":"11","output":"YES"},{"id":1634294032292,"input":"-11","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manth\\Desktop\\DSA\\basic\\pallindrom_int.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: reverse_no","url":"c:\\Users\\manth\\Desktop\\DSA\\basic\\reverse_no.cpp","tests":[{"id":1634290959554,"input":"123","output":"321"},{"id":1634291016602,"input":"-123","output":"-321"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manth\\Desktop\\DSA\\basic\\reverse_no.cpp","group":"local","local":true}

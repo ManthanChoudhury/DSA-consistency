@@ -1,0 +1,1 @@
+{"name":"Local: remove_vowel","url":"c:\\Users\\manth\\Desktop\\DSA\\Data Struct\\String\\remove_vowel.cpp","tests":[{"id":1634369320207,"input":"aaabbbeeeccc","output":"bbbccc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manth\\Desktop\\DSA\\Data Struct\\String\\remove_vowel.cpp","group":"local","local":true}

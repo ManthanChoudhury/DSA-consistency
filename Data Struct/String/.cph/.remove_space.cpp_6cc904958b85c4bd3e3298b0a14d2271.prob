@@ -1,0 +1,1 @@
+{"name":"Local: remove_space","url":"c:\\Users\\manth\\Desktop\\DSA\\Data Struct\\String\\remove_space.cpp","tests":[{"id":1634401593916,"input":" a s d g  sd ds fd   a a","output":"asdgsddsfdaa"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manth\\Desktop\\DSA\\Data Struct\\String\\remove_space.cpp","group":"local","local":true}

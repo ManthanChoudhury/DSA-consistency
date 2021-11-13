@@ -1,0 +1,56 @@
+1. set global(req once)
+// not req already done
+2. git init 
+// to setup git repo
+3. git add <file name>
+// to add file to staging area
+3. git add .
+// to add all file at once
+4. git commit -m "message req"
+// to commit after staging
+5. git remote add origin https://github.com/ManthanChoudhury/DSA.git
+// to add source to save file in git hub
+6. git branch -M master
+// to make source in master branch
+7. git push -u origin master
+// to push in master branch
+
+for  2nd time
+
+1. git add .
+2. git commit -m "message"
+3. git push 
+
+
+open github online
+
+https://github1s.com/ManthanChoudhury/DSA
+
+
+  TOOL
+
+1. git status
+// to check commit or add file
+
+2. git log 
+// tell history
+
+3. git checkout <hash code from git log/branch>
+// to go to some point
+
+3. git checkout master
+// to go to master
+// to go to diff branch
+
+4. git branch <branch name>
+// to crete new branch for diff dept
+
+5. git merge <branch name>
+// to merge diff branch
+
+6. touch .gitignore
+// it dont track the file or use to store secret key
+// then add file or folder name 
+
+7. git remote -v
+// to check remote origin
